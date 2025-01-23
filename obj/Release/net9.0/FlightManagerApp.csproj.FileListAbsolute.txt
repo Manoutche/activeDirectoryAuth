@@ -1,0 +1,6 @@
+C:\xampp\htdocs\activeDirectoryAuth\obj\Release\net9.0\FlightManagerApp.csproj.AssemblyReference.cache
+C:\xampp\htdocs\activeDirectoryAuth\obj\Release\net9.0\FlightManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\activeDirectoryAuth\obj\Release\net9.0\FlightManagerApp.AssemblyInfoInputs.cache
+C:\xampp\htdocs\activeDirectoryAuth\obj\Release\net9.0\FlightManagerApp.AssemblyInfo.cs
+C:\xampp\htdocs\activeDirectoryAuth\obj\Release\net9.0\FlightManagerApp.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\activeDirectoryAuth\obj\Release\net9.0\FlightManagerApp.sourcelink.json

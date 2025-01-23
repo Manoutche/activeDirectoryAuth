@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "QESFHEyd0no=",
+  "dgSpecHash": "V7sQyED5uVc=",
   "success": true,
-  "projectFilePath": "C:\\wamp64\\www\\FlightManagerApp\\FlightManagerApp.csproj",
+  "projectFilePath": "C:\\xampp\\htdocs\\activeDirectoryAuth\\FlightManagerApp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\emechandje\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.1\\system.configuration.configurationmanager.9.0.1.nupkg.sha512",
-    "C:\\Users\\emechandje\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.1\\system.diagnostics.eventlog.9.0.1.nupkg.sha512",
-    "C:\\Users\\emechandje\\.nuget\\packages\\system.directoryservices\\9.0.1\\system.directoryservices.9.0.1.nupkg.sha512",
-    "C:\\Users\\emechandje\\.nuget\\packages\\system.directoryservices.accountmanagement\\9.0.1\\system.directoryservices.accountmanagement.9.0.1.nupkg.sha512",
-    "C:\\Users\\emechandje\\.nuget\\packages\\system.directoryservices.protocols\\9.0.1\\system.directoryservices.protocols.9.0.1.nupkg.sha512",
-    "C:\\Users\\emechandje\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.1\\system.security.cryptography.protecteddata.9.0.1.nupkg.sha512"
+    "C:\\Users\\PC\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.1\\system.configuration.configurationmanager.9.0.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.1\\system.diagnostics.eventlog.9.0.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.directoryservices\\9.0.1\\system.directoryservices.9.0.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.directoryservices.accountmanagement\\9.0.1\\system.directoryservices.accountmanagement.9.0.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.directoryservices.protocols\\9.0.1\\system.directoryservices.protocols.9.0.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.1\\system.security.cryptography.protecteddata.9.0.1.nupkg.sha512"
   ],
   "logs": []
 }

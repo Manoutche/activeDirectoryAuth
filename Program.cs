@@ -14,8 +14,8 @@ namespace ActiveDirectoryAuth
             Console.Write("Mot de passe: ");
             string password = ReadPassword();
 
-            Console.Write("Nom de domaine (ex: monDomaine.local): ");
-            string domain = Console.ReadLine();
+            // Console.Write("Nom de domaine (ex: monDomaine.local): ");
+            // string domain = Console.ReadLine();
 
             if (AuthenticateUser(domain, username, password))
             {
@@ -31,7 +31,7 @@ namespace ActiveDirectoryAuth
         {
             try
             {
-                using (var context = new PrincipalContext(ContextType.Domain, domain))
+                using (var context = new PrincipalContext(ContextType.Domain, /*domain*/))
                 {
                     // Vérifie si l'utilisateur est authentifié
                     return context.ValidateCredentials(username, password);
